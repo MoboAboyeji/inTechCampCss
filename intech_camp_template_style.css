@@ -1,3 +1,62 @@
-body{
-	
+body {
+  font-family: san-serif, arial;
+}
+h1 {
+  width:700px;
+  height:90px;
+  line-height:90px;
+  margin:0 auto;
+  background-color:#dddddd;
+  text-align:center;
+  vertical-align:middle;
+  border-radius:10px;
+}
+#createdby {
+  list-style:none;
+  text-align:center;
+  margin:50px auto;
+}
+#createdby li {
+  display:inline;
+  margin-right:20px;
+  font-size:15px;
+  font-weight:bold;
+  color:#444444;
+}
+#links {
+  list-style:none;
+  text-align:center;
+  margin:30px auto;
+}
+#links li {
+  display:inline;
+  margin-right:20px;
+  font-size:23px;
+  font-weight:bold;
+}
+#links li a {
+  text-decoration: none;
+  color:#1662D3;
+}
+#links li a:hover {
+  text-decoration: underline;
+}
+#container_image {
+  margin:0 auto;
+  width:700px;
+  height:350px;
+  line-height:350px;
+  font-size: 18px;
+  font-weight:bold;
+  text-align:center;
+  background-color:#dddddd;
+  color:#28240F;
+  border-radius:10px;
+}
+#issue_desc {
+  width:700px;
+  margin: 15px auto;
+  text-align:center;
+  font-size:18px;
+  color:#444444;
 }
