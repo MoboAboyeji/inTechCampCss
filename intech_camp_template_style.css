@@ -6,7 +6,8 @@ h1 {
   height:90px;
   line-height:90px;
   margin:0 auto;
-  background-color:#dddddd;
+  background-color:#EDD86E;
+  color:#28240F;
   text-align:center;
   vertical-align:middle;
   border-radius:10px;
@@ -49,7 +50,7 @@ h1 {
   font-size: 18px;
   font-weight:bold;
   text-align:center;
-  background-color:#dddddd;
+  background-color:#EDD86E;
   color:#28240F;
   border-radius:10px;
 }
